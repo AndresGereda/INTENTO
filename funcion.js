@@ -54,7 +54,7 @@ b7.addEventListener('click', function() {
   counter++;
   if (counter === 1) {
     // Acción 1
-    y=1;
+    y=3;
     r3.src =x4;
   } else if (counter === 2) {
     // Acción 2
